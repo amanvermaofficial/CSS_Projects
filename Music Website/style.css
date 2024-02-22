@@ -80,7 +80,7 @@ nav ul li:hover{
 }
 
 .hero-section{
-    background-image: url(hero_image.png);
+    background-image: url('img/hero_image.png');
     background-size: cover;
     height: 100vh;
     display: grid;
@@ -149,7 +149,7 @@ nav ul li:hover{
     margin-bottom: 50px;
 }
 .video-section{
-    background-image: url(video.png);
+    background-image: url('img/video.png');
     min-height: 800px;
     display: grid;
     place-items: center;
